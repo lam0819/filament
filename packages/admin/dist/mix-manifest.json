@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "/app.js": "/app.js?id=8537f796145a3f852f2bb11c65091d05",
     "/app.css": "/app.css?id=c73f8602af731832b69c3dcd4aebe166"
+=======
+    "/app.js": "/app.js?id=ede0010035c81acef5a88db9387b6fd7",
+    "/app.css": "/app.css?id=1c8ed7d669be193e77be920e744ff8f3"
+>>>>>>> 99fc984d (wip)
 }
